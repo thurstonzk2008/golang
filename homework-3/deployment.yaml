@@ -51,4 +51,4 @@ spec:
       port: 8080
       nodePort: 31533
   selector:
-    app: gohttpserver
+    app: httpserverhomework
